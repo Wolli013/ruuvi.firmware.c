@@ -16,7 +16,7 @@
 /** @}*/
 
 #ifndef APP_FW_VERSION
-#define APP_FW_VERSION "v0.0.1"
+#define APP_FW_VERSION "v0.0.1-liwosoft"
 #endif
 
 /**
@@ -355,7 +355,7 @@
 
 // ** Logging constants ** //
 #ifndef APP_LOG_INTERVAL_S
-#   define APP_LOG_INTERVAL_S (5U * 60U)
+#   define APP_LOG_INTERVAL_S (1U * 60U)
 #endif
 #ifndef APP_LOG_OVERFLOW
 #   define APP_LOG_OVERFLOW (true)
