@@ -16,7 +16,7 @@
 /** @}*/
 
 #ifndef APP_FW_VERSION
-#define APP_FW_VERSION "v0.0.1-liwosoft"
+#define APP_FW_VERSION "v0.0.1"
 #endif
 
 /**
