@@ -352,7 +352,7 @@
 #define APP_FLASH_LOG_BOOT_COUNTER_RECORD (0xEFU)
 #define APP_FLASH_LOG_DATA_RECORD_PREFIX  (0xF0U) //!< Prefix, append with U8 number
 
-
+  
 // ** Logging constants ** //
 #ifndef APP_LOG_INTERVAL_S
 #   define APP_LOG_INTERVAL_S (5U * 60U)
