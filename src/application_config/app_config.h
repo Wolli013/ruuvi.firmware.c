@@ -355,7 +355,7 @@
   
 // ** Logging constants ** //
 #ifndef APP_LOG_INTERVAL_S
-#   define APP_LOG_INTERVAL_S (5U * 60U)
+#   define APP_LOG_INTERVAL_S (180U * 60U)
 #endif
 #ifndef APP_LOG_OVERFLOW
 #   define APP_LOG_OVERFLOW (true)
